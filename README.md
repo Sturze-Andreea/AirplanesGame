@@ -15,14 +15,14 @@ jocul se termină când toate piesele unui jucător au fost identificate complet
 de jucătorul care a efectuat ultima mutare (care a identificat complet toate piesele
 adversarului). 
 
-- se joacă de către 2 jucători (un utilizator și un calculator)
-- se joacă pe o tablă matriceală de dimensiune n x m, cu liniile numerotate cu litere, iar
+-se joacă de către 2 jucători (un utilizator și un calculator)
+-se joacă pe o tablă matriceală de dimensiune n x m, cu liniile numerotate cu litere, iar
 coloanele cu numere (n, m - numere naturale mai mici decât 32)
-- fiecare jucător amplasează piesele pe tabla lui de joc; piesele se amplasează astfel încât să
+-fiecare jucător amplasează piesele pe tabla lui de joc; piesele se amplasează astfel încât să
 se încadreze pe tabla de joc și să nu se suprapună; pisele jucătorului uman se amplasează
 conform dorințelor acestuia (citite de la tastatură sau preluate dintr-un fișier); pieslee
 jucătorului computer se amplasează la întâmplare la pornirea jocului.
-- jucătorii efectueză, pe rând și alternativ, câte o mutare
-- jocul se termină când toate piesele unui jucător au fost distruse sau identificate
-- jocul este câștigat de jucătorul care a efectuat ultima mutare (care a distrus sau identificat
+-jucătorii efectueză, pe rând și alternativ, câte o mutare
+-jocul se termină când toate piesele unui jucător au fost distruse sau identificate
+-jocul este câștigat de jucătorul care a efectuat ultima mutare (care a distrus sau identificat
 complet toate piesele adversarului) 
